@@ -1,0 +1,32 @@
+[
+    {   "author": " Roberto", 
+        "texto": "Hola" 
+    },
+    {   "author": "Juan", 
+        "texto": "Buen día" 
+    },
+    {   "author": "María", 
+        "texto": "Buen día" 
+    },
+    {   "author": "Luis", 
+        "texto": "Buenas tardes" 
+    },
+    {   "author": "Carla", 
+        "texto": "Hola, que tal!" 
+    },
+    {   "author": "Lucia", 
+        "texto": "Buenas noches" 
+    },
+    {   "author": "Ricardo", 
+        "texto": "Buen día" 
+    },
+    {   "author": "Pedro", 
+        "texto": "Buenas tardes" 
+    },
+    {   "author": "Desiree", 
+        "texto": "Buenas noches" 
+    },
+    {   "author": "Carmen", 
+        "texto": "Hola, como estás?" 
+    }
+]

@@ -1,0 +1,60 @@
+[
+{
+    "title": "Buzo Nike", 
+    "price":3350, 
+    "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-nike-dri-fit-academy.jpg",
+    "stock":13
+},
+{
+   "title": "Buzo Lotto", "price":580, "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-lotto-smart.jpg",
+   "stock":15
+},
+{
+  "title": "Buzo Nike JDI", 
+  "price":4320, 
+  "image":"https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-nike-sportswear-jdi.jpg",
+ "stock":21
+},
+{
+   "title": "Buzo Adidas", 
+   "price":1700, 
+   "image":"https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-adidas-essentials-logo.jpg",
+   "stock":32
+},
+{
+   "title": "Buzo Fila", 
+   "price":900, 
+   "image":"https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-fila-animal.jpg",
+   "stock":9
+},
+{
+   "title": "Campera Adidas", 
+   "price":4990, 
+   "image":"https://res.cloudinary.com/ojedaweb/image/upload/v1647978248/campera-adidas-tokyo-run.jpg",
+   "stock":13
+},
+{
+    "title": "Campera Nike", 
+    "price":2860, 
+    "image":"https://res.cloudinary.com/ojedaweb/image/upload/v1647978248/campera-nike-repel-miler.jpg",
+    "stock":7
+},
+{
+    "title": "Campera Fila", 
+    "price":1280, 
+    "image":"https://res.cloudinary.com/ojedaweb/image/upload/v1647978248/campera-fila-go-to-mars.jpg",
+    "stock":19
+},
+{
+    "title": "Buzo Nike Sportwear", 
+    "price":2300, 
+    "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-nike-sportswear-essentials.jpg",
+    "stock":3
+},
+{
+    "title": "Remera Puma", 
+    "price":120, 
+    "image":"https://res.cloudinary.com/ojedaweb/image/upload/v1647978232/remera-puma-essentials-heather.jpg",
+    "stock":6
+}
+]

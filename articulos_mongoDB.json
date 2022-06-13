@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "62a5663a2d0013e024bc010b"
+  },
+  "title": "Buzo Nike",
+  "price": 3350,
+  "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-nike-dri-fit-academy.jpg",
+  "stock": 13
+},{
+  "_id": {
+    "$oid": "62a5663a2d0013e024bc010c"
+  },
+  "title": "Buzo Lotto",
+  "price": 580,
+  "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-lotto-smart.jpg",
+  "stock": 15
+},{
+  "_id": {
+    "$oid": "62a5663a2d0013e024bc010d"
+  },
+  "title": "Buzo Nike JDI",
+  "price": 4320,
+  "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-nike-sportswear-jdi.jpg",
+  "stock": 21
+},{
+  "_id": {
+    "$oid": "62a5663a2d0013e024bc010e"
+  },
+  "title": "Buzo Adidas",
+  "price": 1700,
+  "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-adidas-essentials-logo.jpg",
+  "stock": 32
+},{
+  "_id": {
+    "$oid": "62a5663a2d0013e024bc010f"
+  },
+  "title": "Buzo Fila",
+  "price": 900,
+  "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-fila-animal.jpg",
+  "stock": 9
+},{
+  "_id": {
+    "$oid": "62a5663a2d0013e024bc0110"
+  },
+  "title": "Campera Adidas",
+  "price": 4990,
+  "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978248/campera-adidas-tokyo-run.jpg",
+  "stock": 13
+},{
+  "_id": {
+    "$oid": "62a5663a2d0013e024bc0111"
+  },
+  "title": "Campera Nike",
+  "price": 2860,
+  "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978248/campera-nike-repel-miler.jpg",
+  "stock": 7
+},{
+  "_id": {
+    "$oid": "62a5663a2d0013e024bc0112"
+  },
+  "title": "Campera Fila",
+  "price": 1280,
+  "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978248/campera-fila-go-to-mars.jpg",
+  "stock": 19
+},{
+  "_id": {
+    "$oid": "62a5663a2d0013e024bc0113"
+  },
+  "title": "Buzo Nike Sportwear",
+  "price": 2300,
+  "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978263/buzo-nike-sportswear-essentials.jpg",
+  "stock": 3
+},{
+  "_id": {
+    "$oid": "62a5663a2d0013e024bc0114"
+  },
+  "title": "Remera Puma",
+  "price": 120,
+  "image": "https://res.cloudinary.com/ojedaweb/image/upload/v1647978232/remera-puma-essentials-heather.jpg",
+  "stock": 6
+}]
